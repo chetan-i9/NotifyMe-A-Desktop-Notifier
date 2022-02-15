@@ -60,7 +60,7 @@ _**Software Requirements Specifications**_
        >Streaming Downloads  
        >Chunked HTTP Request
 
-2._Basic Requirements _ 
+2._Basic Requirements_
  A general knowledge of basic computer skills is required to use the application. 
  Python should be installed to run this application. 
  Propper Internet Connection. 
