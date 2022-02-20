@@ -61,8 +61,12 @@ _**Software Requirements Specifications**_
        >Chunked HTTP Request
 
 2._Basic Requirements_
+
  A general knowledge of basic computer skills is required to use the application. 
- Python should be installed to run this application. 
+ 
+ Python and required packages and modules should be installed to run this application. 
+ 
  Propper Internet Connection. 
+ 
  Response time for loading the application should take no longer than five minutes.
  
